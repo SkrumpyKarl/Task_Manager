@@ -1,6 +1,8 @@
 # Task Manager
 The Task Manager is a Python program that tracks users, records tasks, and generates statistics. It is designed to help manage tasks for individuals or teams.
 
+The code is written in Python 3.11 and run in Visual Studio Code.
+
 ## Access
 To access the Task Manager with admin rights, use the following credentials:
 
